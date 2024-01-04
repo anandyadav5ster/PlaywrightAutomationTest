@@ -1,0 +1,285 @@
+{
+  "uid" : "c869965eed33e450",
+  "name" : "Handle Dropdown",
+  "fullName" : "Handlealert.spec.js#Handle Dropdown",
+  "historyId" : "316567ab69cd3610dfa04008a0270672:5bd835b0d6b1d4ada3b9f0db936e82c8",
+  "time" : {
+    "start" : 1697810911503,
+    "stop" : 1697810919698,
+    "duration" : 8195
+  },
+  "status" : "failed",
+  "statusMessage" : "locator.selectOption: options[0].index: expected number, got string",
+  "statusTrace" : "\n    at c:\\Users\\Admin\\Desktop\\Automation\\Playwright_PageObjectModel-master\\tests\\demo\\Handlealert.spec.js:74:43",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "locator.selectOption: options[0].index: expected number, got string",
+    "statusTrace" : "\n    at c:\\Users\\Admin\\Desktop\\Automation\\Playwright_PageObjectModel-master\\tests\\demo\\Handlealert.spec.js:74:43",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1697810911509,
+        "stop" : 1697810912054,
+        "duration" : 545
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "fixture: browser",
+        "time" : {
+          "start" : 1697810911534,
+          "stop" : 1697810911933,
+          "duration" : 399
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "browserType.launch",
+          "time" : {
+            "start" : 1697810911538,
+            "stop" : 1697810911932,
+            "duration" : 394
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "hasContent" : false,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1
+      }, {
+        "name" : "fixture: context",
+        "time" : {
+          "start" : 1697810911937,
+          "stop" : 1697810911955,
+          "duration" : 18
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "browser.newContext",
+          "time" : {
+            "start" : 1697810911940,
+            "stop" : 1697810911952,
+            "duration" : 12
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "hasContent" : false,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1
+      }, {
+        "name" : "fixture: page",
+        "time" : {
+          "start" : 1697810911957,
+          "stop" : 1697810912054,
+          "duration" : 97
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "browserContext.newPage",
+          "time" : {
+            "start" : 1697810911964,
+            "stop" : 1697810912054,
+            "duration" : 90
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "hasContent" : false,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 6
+    }, {
+      "name" : "page.goto(https://the-internet.herokuapp.com/dropdown)",
+      "time" : {
+        "start" : 1697810912057,
+        "stop" : 1697810919572,
+        "duration" : 7515
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "locator.selectOption([id=\"dropdown\"])",
+      "time" : {
+        "start" : 1697810919576,
+        "stop" : 1697810919620,
+        "duration" : 44
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "locator.selectOption([id=\"dropdown\"])",
+      "time" : {
+        "start" : 1697810919624,
+        "stop" : 1697810919628,
+        "duration" : 4
+      },
+      "status" : "failed",
+      "statusMessage" : "locator.selectOption: options[0].index: expected number, got string",
+      "statusTrace" : "\n    at c:\\Users\\Admin\\Desktop\\Automation\\Playwright_PageObjectModel-master\\tests\\demo\\Handlealert.spec.js:74:43",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1697810919629,
+        "stop" : 1697810919691,
+        "duration" : 62
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "fixture: page",
+        "time" : {
+          "start" : 1697810919629,
+          "stop" : 1697810919629,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "fixture: context",
+        "time" : {
+          "start" : 1697810919629,
+          "stop" : 1697810919629,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "fixture: browser",
+        "time" : {
+          "start" : 1697810919646,
+          "stop" : 1697810919691,
+          "duration" : 45
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3
+    } ],
+    "attachments" : [ {
+      "uid" : "f234eed1cd7e6765",
+      "name" : "stdout",
+      "source" : "f234eed1cd7e6765.txt",
+      "type" : "text/plain",
+      "size" : 15
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 14
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "titlePath",
+    "value" : " > chromium > Handlealert.spec.js"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-2LG7EUK"
+  }, {
+    "name" : "thread",
+    "value" : "DESKTOP-2LG7EUK-29760-playwright-worker-0"
+  }, {
+    "name" : "parentSuite",
+    "value" : "chromium"
+  }, {
+    "name" : "suite",
+    "value" : "Handlealert.spec.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Project",
+    "value" : "chromium"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c869965eed33e450.json",
+  "parameterValues" : [ "chromium" ]
+}

@@ -1,0 +1,264 @@
+{
+  "uid" : "c3ef201dc08d11b3",
+  "name" : "Handle checkbox",
+  "fullName" : "Handlealert.spec.js#Handle checkbox",
+  "historyId" : "abc18d1ee4ad979b33d04d63e93e7180:5bd835b0d6b1d4ada3b9f0db936e82c8",
+  "time" : {
+    "start" : 1697811742484,
+    "stop" : 1697811748413,
+    "duration" : 5929
+  },
+  "status" : "failed",
+  "statusMessage" : "locator.click: selector: expected string, got object",
+  "statusTrace" : "\n    at c:\\Users\\Admin\\Desktop\\Automation\\Playwright_PageObjectModel-master\\tests\\demo\\Handlealert.spec.js:84:46",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "locator.click: selector: expected string, got object",
+    "statusTrace" : "\n    at c:\\Users\\Admin\\Desktop\\Automation\\Playwright_PageObjectModel-master\\tests\\demo\\Handlealert.spec.js:84:46",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1697811742490,
+        "stop" : 1697811743072,
+        "duration" : 582
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "fixture: browser",
+        "time" : {
+          "start" : 1697811742519,
+          "stop" : 1697811742943,
+          "duration" : 424
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "browserType.launch",
+          "time" : {
+            "start" : 1697811742523,
+            "stop" : 1697811742943,
+            "duration" : 420
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "hasContent" : false,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1
+      }, {
+        "name" : "fixture: context",
+        "time" : {
+          "start" : 1697811742948,
+          "stop" : 1697811742969,
+          "duration" : 21
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "browser.newContext",
+          "time" : {
+            "start" : 1697811742952,
+            "stop" : 1697811742964,
+            "duration" : 12
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "hasContent" : false,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1
+      }, {
+        "name" : "fixture: page",
+        "time" : {
+          "start" : 1697811742970,
+          "stop" : 1697811743072,
+          "duration" : 102
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "browserContext.newPage",
+          "time" : {
+            "start" : 1697811742974,
+            "stop" : 1697811743072,
+            "duration" : 98
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "hasContent" : false,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 1
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 6
+    }, {
+      "name" : "page.goto(https://the-internet.herokuapp.com/)",
+      "time" : {
+        "start" : 1697811743075,
+        "stop" : 1697811748313,
+        "duration" : 5238
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "locator.click(href=\"/checkboxes\")",
+      "time" : {
+        "start" : 1697811748316,
+        "stop" : 1697811748320,
+        "duration" : 4
+      },
+      "status" : "failed",
+      "statusMessage" : "locator.click: selector: expected string, got object",
+      "statusTrace" : "\n    at c:\\Users\\Admin\\Desktop\\Automation\\Playwright_PageObjectModel-master\\tests\\demo\\Handlealert.spec.js:84:46",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1697811748321,
+        "stop" : 1697811748409,
+        "duration" : 88
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "fixture: page",
+        "time" : {
+          "start" : 1697811748321,
+          "stop" : 1697811748322,
+          "duration" : 1
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "fixture: context",
+        "time" : {
+          "start" : 1697811748322,
+          "stop" : 1697811748322,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "fixture: browser",
+        "time" : {
+          "start" : 1697811748341,
+          "stop" : 1697811748409,
+          "duration" : 68
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 13
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "titlePath",
+    "value" : " > chromium > Handlealert.spec.js"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-2LG7EUK"
+  }, {
+    "name" : "thread",
+    "value" : "DESKTOP-2LG7EUK-26120-playwright-worker-0"
+  }, {
+    "name" : "parentSuite",
+    "value" : "chromium"
+  }, {
+    "name" : "suite",
+    "value" : "Handlealert.spec.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Project",
+    "value" : "chromium"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3ef201dc08d11b3.json",
+  "parameterValues" : [ "chromium" ]
+}

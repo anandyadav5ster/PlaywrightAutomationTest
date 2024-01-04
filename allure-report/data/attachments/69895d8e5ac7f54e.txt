@@ -1,0 +1,3 @@
+select checkbox pass
+screenshot
+Full page screenshot

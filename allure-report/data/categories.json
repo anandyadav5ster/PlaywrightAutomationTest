@@ -1,0 +1,49 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Timed out 5000ms waiting for expect(locator).toHaveTitle(expected)\n\nLocator: locator(':root')\nExpected pattern: /The Internet122/\nReceived string:  \"The Internet\"\nCall log:\n  - expect.soft.toHaveTitle with timeout 5000ms\n  - waiting for locator(':root')\n  -   locator resolved to <html lang=\"en\" class=\"no-js\">…</html>\n  -   unexpected value \"The Internet\"\n  -   locator resolved to <html lang=\"en\" class=\"no-js\">…</html>\n  -   unexpected value \"The Internet\"\n  -   locator resolved to <html lang=\"en\" class=\"no-js\">…</html>\n  -   unexpected value \"The Internet\"\n  -   locator resolved to <html lang=\"en\" class=\"no-js\">…</html>\n  -   unexpected value \"The Internet\"\n  -   locator resolved to <html lang=\"en\" class=\"no-js\">…</html>\n  -   unexpected value \"The Internet\"\n  -   locator resolved to <html lang=\"en\" class=\"no-js\">…</html>\n  -   unexpected value \"The Internet\"\n  -   locator resolved to <html lang=\"en\" class=\"no-js\">…</html>\n  -   unexpected value \"The Internet\"\n  -   locator resolved to <html lang=\"en\" class=\"no-js\">…</html>\n  -   unexpected value \"The Internet\"\n",
+      "children" : [ {
+        "name" : "Soft Assertion",
+        "uid" : "5cfc1e1f487f75a7",
+        "parentUid" : "f28b820669c9b2ffc21d016f69050b9f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697876178347,
+          "stop" : 1697876188029,
+          "duration" : 9682
+        },
+        "flaky" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Soft Assertion",
+        "uid" : "37328dfea9843e4b",
+        "parentUid" : "f28b820669c9b2ffc21d016f69050b9f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697876190592,
+          "stop" : 1697876200574,
+          "duration" : 9982
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Soft Assertion",
+        "uid" : "e17f974ce5a9b919",
+        "parentUid" : "f28b820669c9b2ffc21d016f69050b9f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697876205955,
+          "stop" : 1697876214721,
+          "duration" : 8766
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      } ],
+      "uid" : "f28b820669c9b2ffc21d016f69050b9f"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

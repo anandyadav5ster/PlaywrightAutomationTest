@@ -1,0 +1,389 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "chromium",
+    "children" : [ {
+      "name" : "Handlealert.spec.js",
+      "children" : [ {
+        "name" : "Handle alert",
+        "uid" : "1d1ef0648d9986f0",
+        "parentUid" : "5c79bcf66a861ec1891ae5f01ab70a34",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1697876168856,
+          "stop" : 1697876168858,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Open Google",
+        "uid" : "3700836fff32b0eb",
+        "parentUid" : "5c79bcf66a861ec1891ae5f01ab70a34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876169563,
+          "stop" : 1697876175191,
+          "duration" : 5628
+        },
+        "flaky" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Handle nested iframe",
+        "uid" : "79b0e3fb07b077f8",
+        "parentUid" : "5c79bcf66a861ec1891ae5f01ab70a34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876169568,
+          "stop" : 1697876176166,
+          "duration" : 6598
+        },
+        "flaky" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Handle iframe",
+        "uid" : "a8d68301e28c5098",
+        "parentUid" : "5c79bcf66a861ec1891ae5f01ab70a34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876169569,
+          "stop" : 1697876178344,
+          "duration" : 8775
+        },
+        "flaky" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Handle Alert",
+        "uid" : "bada8174804cc3b8",
+        "parentUid" : "5c79bcf66a861ec1891ae5f01ab70a34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876169609,
+          "stop" : 1697876178276,
+          "duration" : 8667
+        },
+        "flaky" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Get text/Attribute",
+        "uid" : "14413b7c60cc06e3",
+        "parentUid" : "5c79bcf66a861ec1891ae5f01ab70a34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876175194,
+          "stop" : 1697876176918,
+          "duration" : 1724
+        },
+        "flaky" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Handle shadow element",
+        "uid" : "dffe1df1a17f4375",
+        "parentUid" : "5c79bcf66a861ec1891ae5f01ab70a34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876176170,
+          "stop" : 1697876179848,
+          "duration" : 3678
+        },
+        "flaky" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Handle Dropdown",
+        "uid" : "77a16ced1f8a821d",
+        "parentUid" : "5c79bcf66a861ec1891ae5f01ab70a34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876176920,
+          "stop" : 1697876180546,
+          "duration" : 3626
+        },
+        "flaky" : true,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Handle checkbox",
+        "uid" : "705af501a464ca63",
+        "parentUid" : "5c79bcf66a861ec1891ae5f01ab70a34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876178280,
+          "stop" : 1697876182392,
+          "duration" : 4112
+        },
+        "flaky" : true,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Soft Assertion",
+        "uid" : "5cfc1e1f487f75a7",
+        "parentUid" : "5c79bcf66a861ec1891ae5f01ab70a34",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697876178347,
+          "stop" : 1697876188029,
+          "duration" : 9682
+        },
+        "flaky" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "5c79bcf66a861ec1891ae5f01ab70a34"
+    } ],
+    "uid" : "36c900977e1d8b81a2c6893cc82bfc01"
+  }, {
+    "name" : "firefox",
+    "children" : [ {
+      "name" : "Handlealert.spec.js",
+      "children" : [ {
+        "name" : "Handle alert",
+        "uid" : "f0fb0ce0ae6da3ab",
+        "parentUid" : "09003d1766a2c8b7de0d6524f75ff3b6",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1697876179850,
+          "stop" : 1697876179850,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Open Google",
+        "uid" : "bba0b180bcfcb589",
+        "parentUid" : "09003d1766a2c8b7de0d6524f75ff3b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876180589,
+          "stop" : 1697876186052,
+          "duration" : 5463
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Handle Alert",
+        "uid" : "107e177ef5cf8069",
+        "parentUid" : "09003d1766a2c8b7de0d6524f75ff3b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876181430,
+          "stop" : 1697876187876,
+          "duration" : 6446
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Handle iframe",
+        "uid" : "1746fa5399e147be",
+        "parentUid" : "09003d1766a2c8b7de0d6524f75ff3b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876183320,
+          "stop" : 1697876190588,
+          "duration" : 7268
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Handle nested iframe",
+        "uid" : "dc373d1f9fb9c2ef",
+        "parentUid" : "09003d1766a2c8b7de0d6524f75ff3b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876186055,
+          "stop" : 1697876188922,
+          "duration" : 2867
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Get text/Attribute",
+        "uid" : "c2917f894186222e",
+        "parentUid" : "09003d1766a2c8b7de0d6524f75ff3b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876187878,
+          "stop" : 1697876189829,
+          "duration" : 1951
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Handle Dropdown",
+        "uid" : "67ec21d03095fcdc",
+        "parentUid" : "09003d1766a2c8b7de0d6524f75ff3b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876188925,
+          "stop" : 1697876192771,
+          "duration" : 3846
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Handle shadow element",
+        "uid" : "e070a586964066ac",
+        "parentUid" : "09003d1766a2c8b7de0d6524f75ff3b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876189175,
+          "stop" : 1697876195811,
+          "duration" : 6636
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Handle checkbox",
+        "uid" : "104d3d00ba7003e",
+        "parentUid" : "09003d1766a2c8b7de0d6524f75ff3b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876189832,
+          "stop" : 1697876194568,
+          "duration" : 4736
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Soft Assertion",
+        "uid" : "37328dfea9843e4b",
+        "parentUid" : "09003d1766a2c8b7de0d6524f75ff3b6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697876190592,
+          "stop" : 1697876200574,
+          "duration" : 9982
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "09003d1766a2c8b7de0d6524f75ff3b6"
+    } ],
+    "uid" : "ed39c131db56604842b18253a0c76267"
+  }, {
+    "name" : "webkit",
+    "children" : [ {
+      "name" : "Handlealert.spec.js",
+      "children" : [ {
+        "name" : "Handle alert",
+        "uid" : "45477b78ab2a48e",
+        "parentUid" : "37c36136d77d3b9faff59d5232418ea6",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1697876192773,
+          "stop" : 1697876192774,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Open Google",
+        "uid" : "f0b9511b58320fa1",
+        "parentUid" : "37c36136d77d3b9faff59d5232418ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876195083,
+          "stop" : 1697876200211,
+          "duration" : 5128
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Handle Alert",
+        "uid" : "80123f16d0f77d5c",
+        "parentUid" : "37c36136d77d3b9faff59d5232418ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876197027,
+          "stop" : 1697876203221,
+          "duration" : 6194
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Handle iframe",
+        "uid" : "b5c8724c2436696a",
+        "parentUid" : "37c36136d77d3b9faff59d5232418ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876197865,
+          "stop" : 1697876204143,
+          "duration" : 6278
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Handle nested iframe",
+        "uid" : "7bee0d3f4d52d37f",
+        "parentUid" : "37c36136d77d3b9faff59d5232418ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876200214,
+          "stop" : 1697876204202,
+          "duration" : 3988
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Get text/Attribute",
+        "uid" : "8bef2d0034aaa3ac",
+        "parentUid" : "37c36136d77d3b9faff59d5232418ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876201270,
+          "stop" : 1697876205950,
+          "duration" : 4680
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Handle shadow element",
+        "uid" : "6c08772e8a022fad",
+        "parentUid" : "37c36136d77d3b9faff59d5232418ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876203226,
+          "stop" : 1697876207132,
+          "duration" : 3906
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Handle Dropdown",
+        "uid" : "b04f059b923b1a06",
+        "parentUid" : "37c36136d77d3b9faff59d5232418ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876204147,
+          "stop" : 1697876208119,
+          "duration" : 3972
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Handle checkbox",
+        "uid" : "2d4ddac8549b6bca",
+        "parentUid" : "37c36136d77d3b9faff59d5232418ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697876204215,
+          "stop" : 1697876209716,
+          "duration" : 5501
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Soft Assertion",
+        "uid" : "e17f974ce5a9b919",
+        "parentUid" : "37c36136d77d3b9faff59d5232418ea6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697876205955,
+          "stop" : 1697876214721,
+          "duration" : 8766
+        },
+        "flaky" : false,
+        "parameters" : [ "webkit" ]
+      } ],
+      "uid" : "37c36136d77d3b9faff59d5232418ea6"
+    } ],
+    "uid" : "44063b3706d66b0d346705a4a77c6704"
+  } ]
+}

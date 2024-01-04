@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-2LG7EUK",
+    "children" : [ {
+      "name" : "DESKTOP-2LG7EUK-22760-playwright-worker-0",
+      "children" : [ {
+        "name" : "check with test data",
+        "uid" : "ed2c9dd08dcfd8e3",
+        "parentUid" : "2b1f4100278a1ad95aad5f82293a13bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1704344067655,
+          "stop" : 1704344070395,
+          "duration" : 2740
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2b1f4100278a1ad95aad5f82293a13bb"
+    } ],
+    "uid" : "2b2600cb35a1bca1c18842005354fc0d"
+  } ]
+}

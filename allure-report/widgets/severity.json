@@ -1,0 +1,301 @@
+[ {
+  "uid" : "80123f16d0f77d5c",
+  "name" : "Handle Alert",
+  "time" : {
+    "start" : 1697876197027,
+    "stop" : 1697876203221,
+    "duration" : 6194
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3700836fff32b0eb",
+  "name" : "Open Google",
+  "time" : {
+    "start" : 1697876169563,
+    "stop" : 1697876175191,
+    "duration" : 5628
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8d68301e28c5098",
+  "name" : "Handle iframe",
+  "time" : {
+    "start" : 1697876169569,
+    "stop" : 1697876178344,
+    "duration" : 8775
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "104d3d00ba7003e",
+  "name" : "Handle checkbox",
+  "time" : {
+    "start" : 1697876189832,
+    "stop" : 1697876194568,
+    "duration" : 4736
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b04f059b923b1a06",
+  "name" : "Handle Dropdown",
+  "time" : {
+    "start" : 1697876204147,
+    "stop" : 1697876208119,
+    "duration" : 3972
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bba0b180bcfcb589",
+  "name" : "Open Google",
+  "time" : {
+    "start" : 1697876180589,
+    "stop" : 1697876186052,
+    "duration" : 5463
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79b0e3fb07b077f8",
+  "name" : "Handle nested iframe",
+  "time" : {
+    "start" : 1697876169568,
+    "stop" : 1697876176166,
+    "duration" : 6598
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37328dfea9843e4b",
+  "name" : "Soft Assertion",
+  "time" : {
+    "start" : 1697876190592,
+    "stop" : 1697876200574,
+    "duration" : 9982
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "77a16ced1f8a821d",
+  "name" : "Handle Dropdown",
+  "time" : {
+    "start" : 1697876176920,
+    "stop" : 1697876180546,
+    "duration" : 3626
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45477b78ab2a48e",
+  "name" : "Handle alert",
+  "time" : {
+    "start" : 1697876192773,
+    "stop" : 1697876192774,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b5c8724c2436696a",
+  "name" : "Handle iframe",
+  "time" : {
+    "start" : 1697876197865,
+    "stop" : 1697876204143,
+    "duration" : 6278
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0fb0ce0ae6da3ab",
+  "name" : "Handle alert",
+  "time" : {
+    "start" : 1697876179850,
+    "stop" : 1697876179850,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "67ec21d03095fcdc",
+  "name" : "Handle Dropdown",
+  "time" : {
+    "start" : 1697876188925,
+    "stop" : 1697876192771,
+    "duration" : 3846
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d1ef0648d9986f0",
+  "name" : "Handle alert",
+  "time" : {
+    "start" : 1697876168856,
+    "stop" : 1697876168858,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e17f974ce5a9b919",
+  "name" : "Soft Assertion",
+  "time" : {
+    "start" : 1697876205955,
+    "stop" : 1697876214721,
+    "duration" : 8766
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "14413b7c60cc06e3",
+  "name" : "Get text/Attribute",
+  "time" : {
+    "start" : 1697876175194,
+    "stop" : 1697876176918,
+    "duration" : 1724
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "107e177ef5cf8069",
+  "name" : "Handle Alert",
+  "time" : {
+    "start" : 1697876181430,
+    "stop" : 1697876187876,
+    "duration" : 6446
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "705af501a464ca63",
+  "name" : "Handle checkbox",
+  "time" : {
+    "start" : 1697876178280,
+    "stop" : 1697876182392,
+    "duration" : 4112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bef2d0034aaa3ac",
+  "name" : "Get text/Attribute",
+  "time" : {
+    "start" : 1697876201270,
+    "stop" : 1697876205950,
+    "duration" : 4680
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dffe1df1a17f4375",
+  "name" : "Handle shadow element",
+  "time" : {
+    "start" : 1697876176170,
+    "stop" : 1697876179848,
+    "duration" : 3678
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cfc1e1f487f75a7",
+  "name" : "Soft Assertion",
+  "time" : {
+    "start" : 1697876178347,
+    "stop" : 1697876188029,
+    "duration" : 9682
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d4ddac8549b6bca",
+  "name" : "Handle checkbox",
+  "time" : {
+    "start" : 1697876204215,
+    "stop" : 1697876209716,
+    "duration" : 5501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0b9511b58320fa1",
+  "name" : "Open Google",
+  "time" : {
+    "start" : 1697876195083,
+    "stop" : 1697876200211,
+    "duration" : 5128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c08772e8a022fad",
+  "name" : "Handle shadow element",
+  "time" : {
+    "start" : 1697876203226,
+    "stop" : 1697876207132,
+    "duration" : 3906
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e070a586964066ac",
+  "name" : "Handle shadow element",
+  "time" : {
+    "start" : 1697876189175,
+    "stop" : 1697876195811,
+    "duration" : 6636
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bada8174804cc3b8",
+  "name" : "Handle Alert",
+  "time" : {
+    "start" : 1697876169609,
+    "stop" : 1697876178276,
+    "duration" : 8667
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc373d1f9fb9c2ef",
+  "name" : "Handle nested iframe",
+  "time" : {
+    "start" : 1697876186055,
+    "stop" : 1697876188922,
+    "duration" : 2867
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2917f894186222e",
+  "name" : "Get text/Attribute",
+  "time" : {
+    "start" : 1697876187878,
+    "stop" : 1697876189829,
+    "duration" : 1951
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7bee0d3f4d52d37f",
+  "name" : "Handle nested iframe",
+  "time" : {
+    "start" : 1697876200214,
+    "stop" : 1697876204202,
+    "duration" : 3988
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1746fa5399e147be",
+  "name" : "Handle iframe",
+  "time" : {
+    "start" : 1697876183320,
+    "stop" : 1697876190588,
+    "duration" : 7268
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
