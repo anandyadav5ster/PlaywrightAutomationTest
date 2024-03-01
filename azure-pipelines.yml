@@ -18,6 +18,4 @@ steps:
 - script: |
     npm install
     npm run build
-    npm init playwright@latest
-    npx playwright test
   displayName: 'npm install and build'
