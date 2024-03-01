@@ -1,2 +1,0 @@
-selct by value
-select by index

@@ -1,2 +1,0 @@
-select checkbox pass
-Fll page screenshot
